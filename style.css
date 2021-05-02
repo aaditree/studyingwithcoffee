@@ -42,39 +42,3 @@ button {
 }
 
 button:hover {background: #eee;}
-
-@media screen and (max-width: 500px) {
-    body{
-    background-color: antiquewhite
-}
-
-.spotify{
-  position: relative;
-  align-content:stretch;
-  align-items: center;
-  margin-top: 10%;
-    }
-
-button {
-    position: relative;
-  background-color: #FFE5B4; 
-  border: none;
-  color: black;
-  padding: 15px 15px;
-  text-align: center;
-  text-decoration: none;
-  font-size: 30px;
-  align-content: center;
-    align-items: center;
-    align-self: center;
-    border-radius: 12px;
-  margin-top: 20%;
-    margin-left: 20%;
-    margin-right: 20%;
-  font-family: cursive;
-    margin-bottom: 20%
-}
-
-button:hover {background: #eee;}
-
-}
