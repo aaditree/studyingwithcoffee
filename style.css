@@ -2,11 +2,7 @@
 body{
     background-color: antiquewhite
 }
-.container{
- 
-  width: auto;
-    height: auto
-}
+
 .spotify{
   position: relative;
   float:right;
