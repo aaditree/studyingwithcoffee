@@ -20,10 +20,7 @@ body {
 
 .timer{
     position: absolute;
-    margin-left: 320px;
-    margin-bottom: 100px;
-    margin-right: 320px;
-    margin-top: 100px
+    margin: 0 auto
 }
 
 }
