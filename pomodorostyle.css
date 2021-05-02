@@ -10,3 +10,21 @@ body {
     margin-right: 320px;
     margin-top: 100px
 }
+
+@media screen (max-width: 1000px) and (orientation:portrait) {
+
+      body {
+  background-color: antiquewhite;
+  font-family: "Pacifico", cursive;
+}
+
+.timer{
+    margin: 0;
+    background: yellow;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)}
+
+}
