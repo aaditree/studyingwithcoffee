@@ -1,0 +1,38 @@
+body{
+    background-color: antiquewhite
+}
+
+.spotify{
+  float:right;
+  margin-right:150px;
+  margin-top: 30px;
+  margin-bottom: 20px
+}
+
+.clock{
+  float:left;
+  margin-left:150px;
+  margin-top: 20px;
+  margin-bottom: 20px
+  
+}
+
+.clear{
+    clear:both;
+}
+
+button {
+  background-color: #FFE5B4; 
+  border: none;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 30px;
+  margin-left: 120px;
+  border-radius: 12px;
+  font-family: cursive
+}
+
+button:hover {background: #eee;}
