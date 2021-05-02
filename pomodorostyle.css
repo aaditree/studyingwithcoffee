@@ -19,6 +19,8 @@ body {
 }
 
 .timer{
+    width: 150px;
+    height: 150px;
     position: absolute;
     margin-bottom:auto;
     margin-left: auto;
@@ -27,8 +29,8 @@ body {
     
 }
     .iframe{
-        width: auto;
-        height: auto
+        width: 150px;
+        height: 150px
     }
 
 }
