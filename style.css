@@ -55,18 +55,6 @@ button:hover {background: #eee;}
   margin-top: 10%;
     }
 
-.clock{
-    position: relative;
-  margin-left:auto;
-  margin-top: 20%;
-  margin-right: auto
-  
-}
-
-.clear{
-    clear:both;
-}
-
 button {
     position: relative;
   background-color: #FFE5B4; 
