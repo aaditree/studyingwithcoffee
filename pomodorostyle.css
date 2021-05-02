@@ -11,7 +11,7 @@ body {
     margin-top: 100px
 }
 
-@media screen and (max-width: 300px) {
+@media screen and (max-width: 500px) {
 
     body {
   background-color: antiquewhite;
@@ -20,7 +20,10 @@ body {
 
 .timer{
     position: absolute;
-    margin: 0 auto
+    margin-bottom:auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto
 }
 
 }
