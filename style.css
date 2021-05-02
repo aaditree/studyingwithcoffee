@@ -44,5 +44,49 @@ button {
 button:hover {background: #eee;}
 
 @media screen and (max-width: 531px) {
-    .container { display: flex; flex-flow: column-reverse; }
+    body{
+    background-color: antiquewhite
+}
+
+.spotify{
+  position: relative;
+  float:right;
+  margin-right:150px;
+  margin-top: 30px;
+  margin-left: 150px;    
+  margin-bottom: 20px
+}
+
+.clock{
+    position: relative;
+  float:left;
+  margin-left:100px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-right: 20px
+  
+}
+
+.clear{
+    clear:both;
+}
+
+button {
+    position: relative;
+  background-color: #FFE5B4; 
+  border: none;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 30px;
+  margin-left: 120px;
+  border-radius: 12px;
+  margin-top: 10px;
+  font-family: cursive
+}
+
+button:hover {background: #eee;}
+
 }
