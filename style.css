@@ -50,7 +50,7 @@ button:hover {background: #eee;}
 
 .spotify{
   position: relative;
-  align-content: center;
+  align-content:stretch;
   align-items: center;
   margin-top: 10%;
     }
