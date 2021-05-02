@@ -11,7 +11,7 @@ body {
     margin-top: 100px
 }
 
-@media screen (max-width: 1000px) and (orientation:portrait) {
+@media (max-width: 1000px) and (orientation:portrait) {
 
       body {
   background-color: antiquewhite;
