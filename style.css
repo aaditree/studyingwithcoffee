@@ -81,7 +81,8 @@ button {
     align-self: center;
     border-radius: 12px;
   margin-top: 50px;
-  font-family: cursive
+  font-family: cursive;
+    margin-bottom: 20px
 }
 
 button:hover {background: #eee;}
