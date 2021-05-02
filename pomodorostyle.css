@@ -11,7 +11,7 @@ body {
     margin-top: 100px
 }
 
-@media screen and (max-width: 531px) {
+@media screen and (max-width: 300px) {
 
     body {
   background-color: antiquewhite;

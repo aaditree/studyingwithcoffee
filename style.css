@@ -43,7 +43,7 @@ button {
 
 button:hover {background: #eee;}
 
-@media screen and (max-width: 531px) {
+@media screen and (max-width: 300px) {
     body{
     background-color: antiquewhite
 }
