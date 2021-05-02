@@ -3,8 +3,8 @@ body{
     background-color: antiquewhite
 }
 .container{
-    width: auto;
-    height: auto
+ display: grid;
+  grid-template-columns: 1fr 3fr;
 }
 .spotify{
   position: relative;
@@ -53,8 +53,8 @@ body{
     background-color: antiquewhite
 }
 .container{
-    width: auto;
-    height: auto
+    display: grid;
+  grid-template-columns: 1fr 3fr;
 }
 .spotify{
   position: relative;
