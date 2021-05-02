@@ -1,7 +1,11 @@
+
 body{
     background-color: antiquewhite
 }
-
+.container{
+    width: auto;
+    height: auto
+}
 .spotify{
   position: relative;
   float:right;
@@ -42,3 +46,11 @@ button {
 }
 
 button:hover {background: #eee;}
+
+@media screens (max-width: 1000px)
+{
+    .container{
+        width: auto;
+        height: auto
+    }
+}
