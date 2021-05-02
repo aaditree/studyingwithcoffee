@@ -81,6 +81,7 @@ button {
     align-self: center;
     border-radius: 12px;
   margin-top: 50px;
+    margin-left: 50px;
   font-family: cursive;
     margin-bottom: 20px
 }
