@@ -52,13 +52,13 @@ button:hover {background: #eee;}
   position: relative;
   align-content: center;
   align-items: center;
-  margin-top: 30px;
+  margin-top: 10%;
     }
 
 .clock{
     position: relative;
   margin-left:auto;
-  margin-top: 50px;
+  margin-top: 20%;
   margin-right: auto
   
 }
@@ -80,10 +80,11 @@ button {
     align-items: center;
     align-self: center;
     border-radius: 12px;
-  margin-top: 50px;
-    margin-left: 50px;
+  margin-top: 20%;
+    margin-left: 20%;
+    margin-right: 20%;
   font-family: cursive;
-    margin-bottom: 20px
+    margin-bottom: 20%
 }
 
 button:hover {background: #eee;}
