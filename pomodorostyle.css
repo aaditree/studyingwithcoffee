@@ -4,7 +4,7 @@ body {
 }
 
 .timer{
-    position: static;
+    position: absolute;
     margin-left: 320px;
     margin-bottom: 100px;
     margin-right: 320px;
