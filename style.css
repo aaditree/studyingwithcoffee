@@ -3,7 +3,7 @@ body{
 }
 
 .spotify{
-    position: static;
+  position: static;
   float:right;
   margin-right:150px;
   margin-top: 30px;
@@ -39,3 +39,7 @@ button {
 }
 
 button:hover {background: #eee;}
+
+@media screen and (max-width: 531px) {
+    .container { display: flex; flex-flow: column-reverse; }
+}
