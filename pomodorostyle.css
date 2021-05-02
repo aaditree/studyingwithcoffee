@@ -26,5 +26,9 @@ body {
     margin-top: auto;
     
 }
+    .iframe{
+        width: auto;
+        height: auto
+    }
 
 }
