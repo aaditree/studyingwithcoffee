@@ -3,6 +3,7 @@ body{
 }
 
 .spotify{
+    position: static;
   float:right;
   margin-right:150px;
   margin-top: 30px;
@@ -10,6 +11,7 @@ body{
 }
 
 .clock{
+    position: static;
   float:left;
   margin-left:150px;
   margin-top: 20px;
@@ -22,6 +24,7 @@ body{
 }
 
 button {
+    position: static;
   background-color: #FFE5B4; 
   border: none;
   color: black;
