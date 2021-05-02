@@ -18,19 +18,18 @@ body {
   font-family: "Pacifico", cursive;
 }
 
-.timer{
-    width: 150px;
-    height: 150px;
-    position: absolute;
-    margin-bottom:auto;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: auto;
-    
+.timer{ 
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 35px;
+    height: 0;
+    overflow: hidden;
 }
     .timer iframe{
-        width: 150px;
-        height: 150px
-    }
+    position: absolute;
+    top:0;
+    left: 0;
+    width: 100%;
+    height: 100%;}
 
 }
