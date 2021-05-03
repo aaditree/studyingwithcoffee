@@ -1,4 +1,4 @@
-# studyingwithcoffee
+# Studying with Coffee
 
 ## Website Link: https://aaditree.github.io/studyingwithcoffee
 
@@ -7,3 +7,31 @@
 ### If you wish to add a song to the playlist, you can do so by pulling a request on the README.md.
 
 ### Hope you like it!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### Author: Aaditree
+
+##### 3rd party applications have been used for the timer, the clock and Spotify has been used to create the playlist. 
+##### All copyrights to these applications belong solely with their owners/ organizations
+
+##### > All rights reserved.
