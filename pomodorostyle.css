@@ -8,7 +8,17 @@ body {
     margin-left: 320px;
     margin-bottom: 100px;
     margin-right: 320px;
-    margin-top: 100px
+    margin-top: 50px
+}
+
+
+.music{
+    position: relative;
+    align-content: center;
+    margin-top: 20px;
+    margin-left: 40%;
+    margin-right: -40%;
+    tab-size: 100px
 }
 
 @media (max-width: 1000px) and (orientation:portrait) {
